@@ -1,0 +1,4 @@
+src/
+.parse-doc.yaml
+parse-doc
+*.exe
